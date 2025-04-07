@@ -34,4 +34,13 @@ def dashboard():
 threading.Thread(target=simulate_transfers, daemon=True).start()
 
 if __name__ == "__main__":
-    app.run(debug=True, port=8000)
+    app.run(debug=True, port=# Lance automatiquement les transferts dans un thread parallèle
+threading.Thread(target=simulate_transfers, daemon=True).start()
+
+# Route principale du bot pour voir si ça tourne
+@app.route("/")
+def index():
+    return "SterlingBot actif et connecté au Wallet"
+
+if __name__ == "__main__":
+    app.run()
