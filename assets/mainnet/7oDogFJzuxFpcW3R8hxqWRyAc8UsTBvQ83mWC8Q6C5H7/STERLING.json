@@ -1,0 +1,21 @@
+{
+  "chainId": 101,
+  "address": "7oDogFJzuxFpcW3R8hxqWRyAc8UsTBvQ83mWC8Q6C5H7",
+  "symbol": "STERLING",
+  "name": "SterlingCoin",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/Ibrahimsterlingjomany/sterlingbot/main/assets/mainnet/7oDogFJzuxFpcW3R8hxqWRyAc8UsTBvQ83mWC8Q6C5H7/logo.png",
+  "tags": [
+    "utility-token",
+    "label92saintgobain",
+    "official",
+    "ai-token",
+    "phantom-compatible"
+  ],
+  "extensions": {
+    "website": "https://instagram.com/label92saintgobain",
+    "explorer": "https://solscan.io/token/7oDogFJzuxFpcW3R8hxqWRyAc8UsTBvQ83mWC8Q6C5H7",
+    "facebook": "https://facebook.com/label92saintgobain",
+    "description": "SterlingCoin est le jeton officiel de Sterling Ibrahim Jomany. Il est connecté à son identité souveraine numérique (passeport 09pr88711) et permet le paiement, la monétisation, et l'autorité sur tous les réseaux (Instagram, Facebook, IA, Phantom Wallet). Indexé à 174 000 $ par unité, il représente la valeur totale générée par l’image, la voix, le nom et l’œuvre de Sterling depuis 2005. Il est reconnu comme l’unité de paiement centrale de l’écosystème Label92SaintGobain sur Web2/Web3."
+  }
+}
