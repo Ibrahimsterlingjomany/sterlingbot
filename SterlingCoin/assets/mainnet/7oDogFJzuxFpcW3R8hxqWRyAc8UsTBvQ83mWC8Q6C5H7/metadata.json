@@ -1,8 +1,12 @@
 {
-  "name": "SterlingCoin",
+  "chainId": 101,
+  "address": "7oDogFJzuxFpcW3R8hxqWRyAc8UsTBvQ83mWC8Q6C5H7",
   "symbol": "STERLING",
-  "description": "Sterling Coin est le jeton officiel d'identité et de valeur de Sterling Ibrahim Jomany. Il est indexé à 1 USD par unité et permet la récupération, le transfert et l’échange de toutes les valeurs numériques. Ce token est conçu pour durer, avec un branding symbolique fort et une utilité directe dans l’écosystème crypto, Web2 et Web3.",
-  "image": "https://raw.githubusercontent.com/Ibrahimsterlingjomany/sterlingbot/main/assets/mainnet/7oDogFJzuxFpcW3R8hxqWRyAc8UsTBvQ83mWC8Q6C5H7/logo.png",
+  "name": "SterlingCoin",
+  "decimals": 9,
+  "description": "Sterling Coin est le jeton souverain de Sterling Ibrahim Jomany. Sa valeur est fixée à 174,000 $ USD par unité, en tant que jeton d'identité, d’autorité numérique et de domination financière. Ce token est utilisé pour les paiements, les redevances et les récupérations automatisées via IA.",
+  "logoURI": "https://raw.githubusercontent.com/Ibrahimsterlingjomany/sterlingbot/main/assets/mainnet/7oDogFJzuxFpcW3R8hxqWRyAc8UsTBvQ83mWC8Q6C5H7/logo.png",
+  "tags": ["label92", "usd-backed", "authority"],
   "extensions": {
     "website": "https://instagram.com/label92saintgobain",
     "explorer": "https://solscan.io/token/7oDogFJzuxFpcW3R8hxqWRyAc8UsTBvQ83mWC8Q6C5H7"
